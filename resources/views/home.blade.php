@@ -9,6 +9,7 @@
 
 <body>
     <h1>Hello World!</h1>
+    <a href="{{url("/info")}}">INFO</a>
 </body>
 
 </html>
